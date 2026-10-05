@@ -1,3 +1,8 @@
+# Environment variables — keep these private
+.env
+.env.*
+*.env
+
 # Logs
 logs
 *.log
